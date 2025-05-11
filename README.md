@@ -37,9 +37,10 @@ pip install -r requirements.txt
 
 #### Usage
 
-1.  Run ```bash
-	uvicorn main:app --reload.
-	```
+1.  Run 
+```bash
+uvicorn main:app --reload
+```
 2.	The API will be live at: **http://localhost:8000**
 3.	Go to **http://localhost:8000/docs** to test the API.
 
@@ -54,9 +55,10 @@ npm install
 
 #### Usage
 
-1. Run ```bash
-	npm run dev.
-	```
+1. Run 
+```bash
+npm run dev.
+```
 2.	The Frontend will be live at: **http://localhost:5173**
 
 ## Screenshots
